@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Day01_PlayerStatus/Day01_PlayerStatus.csproj" />
+  <Project Path="Day02_PlayerBattle/Day02_PlayerBattle.csproj" />
+</Solution>
