@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Day01_PlayerStatus/Day01_PlayerStatus.csproj" />
   <Project Path="Day02_PlayerBattle/Day02_PlayerBattle.csproj" />
+  <Project Path="Day03_Expression/Day03_Expression.csproj" Id="d4c72659-56cb-4f78-a891-89bc653d8158" />
+  <Project Path="Day04_MethodScopeLab/Day04_MethodScopeLab.csproj" Id="7ce90cce-7dc1-4eaa-b2df-d9761f6a8d77" />
 </Solution>
